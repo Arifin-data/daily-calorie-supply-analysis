@@ -25,7 +25,7 @@ The main objectives of this project are to:
 - Data cleaning, transformation, and analysis
 - Power BI
 - GitHub – Version control and portfolio presentation
-- 
+  
 ## 📈 Dashboard Features
 
 The Power BI dashboard provides an interactive overview of daily calorie supply per person.
